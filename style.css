@@ -1,0 +1,51 @@
+#myDiv{
+   display: flex;
+   justify-content: space-between;
+}
+#title{
+border: solid 1px;
+background-color: black;
+color: white;
+padding: 0 30% 0 35%;
+text-align: center;
+text-transform: unset;
+}
+#head{
+   border: solid 1px; 
+   background-color: black;
+   color: white;
+   padding: 0 10%;
+   text-align: left;
+}
+#blank {
+    border: solid 1px;
+    border-color: rgb(11, 32, 11);
+    background: green;
+    padding: 15px;
+}
+#header{
+    border: solid 1px;
+    border-color:lightslategray;
+    display: flex;
+    justify-content: space-between;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px;
+    border-color: lightslategray;
+}
+#lastDiv{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px;
+    border-color: lightslategray;
+}
+#container{
+    background: none;
+    border: 2px;
+}
+
+
+
+
